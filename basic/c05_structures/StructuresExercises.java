@@ -5,7 +5,6 @@ import java.util.Arrays;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.stream.Gatherer.Integrator;
 
 /*
 Clase 44 - Ejercicios: Estructuras
